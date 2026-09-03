@@ -113,3 +113,8 @@ https://kangjiw00.github.io/kakao-chat-analyzer/
 index.html
 README.md
 ```
+
+
+## 파일 교체 후 캐시 확인
+
+기존 GitHub Pages 파일을 교체한 뒤에는 GitHub Pages 반영에 수 분이 걸릴 수 있습니다. 브라우저에서 `Ctrl+F5`(Windows) 또는 `Cmd+Shift+R`(macOS)로 강력 새로고침하고, 필요하면 시크릿 창에서 배포 URL을 확인하세요. 저장소 루트의 파일명은 반드시 `index.html`이어야 합니다.
